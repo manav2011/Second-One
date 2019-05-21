@@ -1,5 +1,3 @@
 Learning git at github.com
 Adding a branch 
 Adding another branch 
-
-
